@@ -15,6 +15,15 @@ News and Comments regarding Financial Sector in 2016
 </figure>
 
 
+Dynamic Description 
+
+- From the Euro Start (2001) up to the US Financial Crisis (2007-2008) = Physiological Dynamic 
+- From US Financial Crisis (2007-2008) to Draghi's "Whatever it takes" (Half 2012) = Diverging Dynamic 
+- From Draghi's "Whatever it takes" (Half 2012) to the Beginning of ECB QE (2015) = Converging Dynamic 
+- From the Beginning of ECB QE (2015) to now = Diverging Dynamic 
+
+
+
 ##### Analysis 
 
 Target2 Imbalances 
@@ -25,15 +34,6 @@ Target2 Imbalances
   - Capital Flight 
     - Mainly due to the National related Risk 
     
-
-
-Dynamic Description 
-
-- From the Euro Start (2001) up to the US Financial Crisis (2007-2008) = Physiological Dynamic 
-- From US Financial Crisis (2007-2008) to Draghi's "Whatever it takes" (Half 2012) = Diverging Dynamic 
-- From Draghi's "Whatever it takes" (Half 2012) to the Beginning of ECB QE (2015) = Converging Dynamic 
-- From the Beginning of ECB QE (2015) to now = Diverging Dynamic 
-
 
 
 #### Deutsche Bank 
