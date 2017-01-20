@@ -47,6 +47,8 @@ Target2 Imbalances
 - Summary 
   - Solution to NPL will require cooperation between all the stakeholders (ECB, Regulators and Governments) 
     - **Opinion** Probably Draghi wants to build a framework allowing the ECB to buy NPL in a Securitized form 
+      - Howvere it is very likely the ECB would need sort of Gov guarantee to be able to make the Asset eligible 
+      - Maybe this is the reason why Draghi is asking Gov to cooperate 
 
 
 
