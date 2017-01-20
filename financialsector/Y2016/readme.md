@@ -41,7 +41,12 @@ Target2 Imbalances
 [Deutsche Bank Poses Greatest Risk to Global Financial System, IMF Says](http://www.wsj.com/articles/deutsche-bank-poses-greatest-risk-to-global-financial-system-imf-says-1467239405)
 
 
+#### NPL 
 
+[Draghi: banche, governi, regolatori e investitori cooperino per risolvere il nodo Npl](http://www.ilsole24ore.com/art/notizie/2016-04-15/draghi-banche-governi-regolatori-e-investitori-cooperino-risolvere-npl--184312.shtml?uuid=ACLzAq8C)
+- Summary 
+  - Solution to NPL will require cooperation between all the stakeholders (ECB, Regulators and Governments) 
+    - **Opinion** Probably Draghi wants to build a framework allowing the ECB to buy NPL in a Securitized form 
 
 
 
