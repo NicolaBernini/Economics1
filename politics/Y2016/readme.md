@@ -13,7 +13,7 @@ News and Comments related to Politics in 2016
 - Summary 
   - Analysis of Fillon vs Merkel Positions 
     - Convergence: Lib 
-    - Divergence: Not a big Euro-fan, Immigration, close to Putin, ... 
+    - Divergence: Not a big Euro-fan, Immigration, Close to Putin, ... 
 
 
 
